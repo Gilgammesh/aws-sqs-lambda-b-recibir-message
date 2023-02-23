@@ -1,0 +1,21 @@
+
+# package directories
+node_modules
+jspm_packages
+
+# enviroments variables
+.env
+.env.local
+.env.development
+.env.dev
+.env.prod
+
+# Serverless directories
+.serverless
+.build
+coverage
+out-logger.json
+.DS_Store
+
+# IDE's
+.vscode
